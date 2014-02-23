@@ -6,6 +6,9 @@ gem 'rails', '4.0.2'
 gem 'dashing-rails'
 gem 'puma'
 
+gem 'nokogiri'
+gem 'htmlentities'
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
