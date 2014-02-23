@@ -4,7 +4,7 @@
 
 #### RESOURCES
 
-https://github.com/gottfrois/dashing-rails
-https://github.com/Shopify/dashing/wiki/Additional-Widgets
-https://gist.github.com/toddq/5422482
-http://redis.io/download
+- https://github.com/gottfrois/dashing-rails
+- https://github.com/Shopify/dashing/wiki/Additional-Widgets
+- https://gist.github.com/toddq/5422482
+- http://redis.io/download
